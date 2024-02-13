@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Задание №1}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Текст программы по индивидуальному варианту}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Дизассемблерный листинг кода программы}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Псевдокод, поясняющий работу программы}{5}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Задание №2}{7}{section.2}%
+\contentsline {section}{\numberline {3}Задание №3}{7}{section.3}%
+\contentsline {section}{\numberline {4}Задание №4}{7}{section.4}%
+\contentsline {section}{\numberline {5}Задание №5}{9}{section.5}%

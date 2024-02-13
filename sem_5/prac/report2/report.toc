@@ -1,0 +1,4 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Индивидуальное задание}{2}{section.1}%
+\contentsline {section}{\numberline {2}Полученные графы}{2}{section.2}%
+\contentsline {section}{\numberline {3}Полученные изображения}{12}{section.3}%
